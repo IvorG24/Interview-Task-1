@@ -15,11 +15,3 @@ This is a command line application that interfaces with an existing API to searc
    a. If the book could not be found, indicate that the book could not be found.
 5. Ask the user for input again and repeat indefinitely.
 
-## Installation
-
-1. Ensure you have Node.js installed on your system. If not, download and install it from [Node.js](https://nodejs.org/).
-2. Clone this repository to your local machine.
-3. Navigate to the project directory and install the required dependencies:
-   ```sh
-   npm install
-   ```
